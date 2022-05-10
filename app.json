@@ -1,9 +1,9 @@
 {
-  "name": "ΛႺՕ𝖱Λ МՍ𝖲ӀСЅ",
+  "name": "TRIKURAA VC",
   "logo": "https://te.legra.ph/file/743570cee67092f5d03b7.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/MR-KANNADIGA/AGORA-VCBOT",
+  "repository": "https://github.com/ARUN-GOUDA-147/TRIKURAA",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
