@@ -1,5 +1,5 @@
 <p align="center">
-    <br><b>😫 ΛႺՕ𝖱Λ 😫</b><br>
+    <br><b>😫 TRIKURAA VC BOT 😫</b><br>
 </p>
 <p align="center"><a href="https://t.me/agora_robots"><img src="https://te.legra.ph/file/743570cee67092f5d03b7.jpg"></a></p>
 
@@ -59,12 +59,12 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MR-KANNADIGA/AGORA-VCBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ARUN-GOUDA-147/TRIKURAA"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/MR-KANNADIGA/AGORA-VCBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/ARUN-GOUDA-147/TRIKURAA"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
