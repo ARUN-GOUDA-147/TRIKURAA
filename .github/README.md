@@ -1,7 +1,7 @@
 <p align="center">
     <br><b>😫 TRIKURAA VC BOT 😫</b><br>
 </p>
-<p align="center"><a href="https://t.me/agora_robots"><img src="https://te.legra.ph/file/743570cee67092f5d03b7.jpg"></a></p>
+<p align="center"><a href="https://t.me/agora_robots"><img src="https://te.legra.ph/file/aa3e01fa6489ec19cbf9d.jpg"></a></p>
 
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
