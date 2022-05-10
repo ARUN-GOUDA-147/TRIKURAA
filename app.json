@@ -1,9 +1,9 @@
 {
-  "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
+  "name": "ΛႺՕ𝖱Λ МՍ𝖲ӀСЅ",
+  "logo": "https://te.legra.ph/file/743570cee67092f5d03b7.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/AnonymousR1025/FallenMusic",
+  "repository": "https://github.com/MR-KANNADIGA/AGORA-VCBOT",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -17,12 +17,12 @@
     "BOT_NAME": {
       "description": "A name for your MusicPlayer Bot",
       "required": false,
-      "value": ""
+      "value": "AGORA ROBOT"
     },
     "BOT_USERNAME": {
       "description": "Username of your bot without @",
       "required": false,
-      "value": ""
+      "value": "AGORA_ROBOT"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps",
@@ -35,17 +35,17 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "anonymous_was_bot"
+      "value": "mr_agora"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "DevilsHeavenMF"
+      "value": "agora_robots"
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "1356469075"
+      "value": "5272015055"
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
